@@ -1,5 +1,5 @@
-/* Create table about the people and what they do here */
-/* REQUIREMENTS:
+/* Create table about the people and what they do here
+REQUIREMENTS:
 -- Contains at least two tables with at least 15 rows total.
 -- One of the tables contains a column that relates to the primary key of another table.
 -- Has at least one query that does a JOIN.
